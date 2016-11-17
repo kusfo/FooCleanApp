@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_2942c37b8cb4e922e408845b475e8fd0c02c135d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_6f45bb206b1c12bbb3ff7bf88cd37e7678147109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_09878da71dbc5f63ebf4a8b60bb571b2ab95442b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c2b5c32f8238eabe69179be30a7cc7bbb28c4556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea411a79ab7b3fbff5298293ddf1b6577a24b94d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_ad2cc6532ee8a675a1b3c50a95bc83f5f5de9324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cae705a9e30afabeec2ef5e6fbacf7bddd473b8">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a7cb84544d5fd2455ba0e83282d1036c13ed611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_c9a5c4fd63bb17173c1955de473aea8772003df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_cfae40545d16f058da6bf378f7f61f4f9fdcc1cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_829fd9952d9a2c0b98f1fba3e0ed06657ffaedf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9d2418dc335f7e7029b60cbf8f875f409ca3c1d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_667f2f47c48d91bf7b802635beb580e7fc7b324f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.23.0/9c437ce12df38b57fde4e3bb38ef6859f85ff737/rxandroid-0.23.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c437ce12df38b57fde4e3bb38ef6859f85ff737">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-0.23.0_7cf4b1cb0d1f749f230d267fc7fe9a349f41d6fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="31606731929a5be4ac7f953053185c2fb0442346">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_224635b39ab785fc05d474c9dfbe0fa14352b4da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_22c001832254927560ee7f1be1d6288de842ba9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_05e189d0861244fc6d235081264169298164ce46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_42b4086d7cb66e8dca613c9872b72af24e0b068d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.7/f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb/dagger-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f60e4926b5f05a62ff73e73b6eb3a856cdc74ddb">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.7_868a02edfad4c0a4293af4f6b0af58ce2bc6ab88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6f4516d73ad142aa467c95ee7772f704699299c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_5c4697e8c82d36fd695a396a0e368b83960f5d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_46c55a60b84a6d8e4ff91428323798eee31a6fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e101ef561451e3c67c0341ce49de2d0ecb7f86a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f5950f79c9191a088c194e92288c84e542b3ec35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_76534a41a7128de658dee0c37f977529da96bf3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8a7d8dc5d04948b65d4dae51ceadbe7106893ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_e1cd74cf3e958085342b86e93b9aee478b961eae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_244c924658725364bc7fcbfe2ed46b0d15668bf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a563beb167086ac8f09a6b0cbe713f461b956f11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_4801a56e7d7b15a7559fd6d493497a4b6c5674ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d65fb26c3aebe2bfe6ad2856bdffa466e0dc27f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b318eff59175b88744fc202a27e14190c17cfcfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.0_c5aef980fb5c94eb1e2ece56c2a589bd3aa5e2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta3/8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2/converter-gson-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta3_8954f83a62f373252e188231c31cd94c9d520afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jordimontornes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/Users/jordimontornes/Documents/FooCleanCodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.1_903ee23c5148529a8cd258813273fbd6aedbacb1/classes.dex" />
+    </item>
+
+</items>
