@@ -1,6 +1,7 @@
-package com.jordimontornes.FooCleanCodeApp.data.dto;
+package com.jordimontornes.FooCleanCodeApp.data.dao;
 
-public class FilmDTO {
+
+public class FilmDAO {
     private int film_id;
     private String title;
     private String description;

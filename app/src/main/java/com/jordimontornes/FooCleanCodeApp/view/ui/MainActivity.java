@@ -10,8 +10,9 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.jordimontornes.FooCleanCodeApp.R;
-import com.jordimontornes.FooCleanCodeApp.data.dto.FilmDTO;
+import com.jordimontornes.FooCleanCodeApp.data.rest.FilmDTO;
 import com.jordimontornes.FooCleanCodeApp.Aplication.injection.FooCleanCodeApplication;
+import com.jordimontornes.FooCleanCodeApp.domain.objects.Film;
 
 import java.util.List;
 
@@ -58,11 +59,11 @@ public class MainActivity extends AppCompatActivity implements FilmListView{
     }
 
     @Override
-    public void showFilmList(List<FilmDTO> filmDTOList) {
+    public void showFilmList(List<Film> filmList) {
         Log.i("FooCleanCodeApp","Returning to call Show FilmDTO list");
         linearLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(linearLayoutManager);
-        filmListAdapter = new FilmListAdapter(filmDTOList);
+        filmListAdapter = new FilmListAdapter(filmList);
         recyclerView.setAdapter(filmListAdapter);
         errorText.setVisibility(View.GONE);
         recyclerView.setVisibility(View.VISIBLE);

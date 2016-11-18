@@ -2,9 +2,12 @@ package com.jordimontornes.FooCleanCodeApp.view.ui;
 
 import android.util.Log;
 
-import com.jordimontornes.FooCleanCodeApp.data.provider.ApiRestDataProvider;
+import com.jordimontornes.FooCleanCodeApp.data.provider.DataProvider;
 import com.jordimontornes.FooCleanCodeApp.data.rest.FilmResults;
 import com.jordimontornes.FooCleanCodeApp.Aplication.injection.FooCleanCodeApplication;
+import com.jordimontornes.FooCleanCodeApp.domain.objects.Film;
+
+import java.util.List;
 
 import javax.inject.Inject;
 
@@ -14,7 +17,7 @@ import rx.schedulers.Schedulers;
 public class MainActivityPresenter {
 
     @Inject
-    ApiRestDataProvider apiRestDataProvider;
+    DataProvider dataProvider;
 
     FilmListView filmListView;
 
@@ -29,7 +32,7 @@ public class MainActivityPresenter {
     }
 
     private void loadFilms() {
-        apiRestDataProvider.getFilms()
+        dataProvider.getFilms()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(this::handleFilmResults, this::handleGetFilmError, this::handleCompleted);
@@ -45,8 +48,8 @@ public class MainActivityPresenter {
         filmListView.showFilmListError();
     }
 
-    void handleFilmResults(FilmResults filmResults) {
-        filmListView.showFilmList(filmResults.results);
+    void handleFilmResults(List<Film> filmList) {
+        filmListView.showFilmList(filmList);
     }
 
 }

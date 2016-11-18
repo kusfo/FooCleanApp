@@ -6,17 +6,18 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.jordimontornes.FooCleanCodeApp.data.dto.FilmDTO;
+import com.jordimontornes.FooCleanCodeApp.data.rest.FilmDTO;
 import com.jordimontornes.FooCleanCodeApp.R;
+import com.jordimontornes.FooCleanCodeApp.domain.objects.Film;
 
 import java.util.List;
 
 public class FilmListAdapter extends RecyclerView.Adapter<FilmListAdapter.ViewHolder>{
 
-    private final List<FilmDTO> filmDTOList;
+    private final List<Film> filmList;
 
-    public FilmListAdapter(List<FilmDTO> filmDTOList) {
-        this.filmDTOList = filmDTOList;
+    public FilmListAdapter(List<Film> filmList) {
+        this.filmList = filmList;
     }
 
     @Override
@@ -30,14 +31,14 @@ public class FilmListAdapter extends RecyclerView.Adapter<FilmListAdapter.ViewHo
 
     @Override
     public void onBindViewHolder(FilmListAdapter.ViewHolder holder, int position) {
-        holder.title.setText(filmDTOList.get(position).getTitle());
-        holder.description.setText(filmDTOList.get(position).getDescription());
-        holder.year.setText(Integer.toString(filmDTOList.get(position).getRelease_year()));
+        holder.title.setText(filmList.get(position).getTitle());
+        holder.description.setText(filmList.get(position).getDescription());
+        holder.year.setText(Integer.toString(filmList.get(position).getRelease_year()));
     }
 
     @Override
     public int getItemCount() {
-        return filmDTOList.size();
+        return filmList.size();
     }
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
